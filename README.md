@@ -1,7 +1,10 @@
 # Third-Assignment
 Final Assignment Numerical Simulation
 
-Link to Assignment3 Notebook file: 
+Assignment 3 Notebook html: 
 http://ilaureys.github.io/Assignment3/Assignment3.html
 
-In collaboration with Nina Bartman and Irene Laureys
+Assignment 3 Notebook python: 
+http://ilaureys.github.io/Assignment3/Assignment3.ipynb
+
+In collaboration with Nina Bartmann and Irene Laureys
